@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neaten-network
-- 👀 I’m interested in Web Development, really digging into PWA nowadays
-- 🌱 I’m currently learning Next.js, React.js, working with various API's and CMS's, JAMstack
+- 👀 I’m interested in Front-end Web Development, really digging into JAMstack nowadays
+- 🌱 I’m currently learning Next.js, TypeScript, working with various CMS's, API's, Data Bases
 - 💞️ I’m looking to collaborate on any cool projects
-- 📫 How to reach me - by my Linked In page, or via my website (https://neaten-portfolio.netlify.app/)
+- 📫 How to reach me - by my LinkedIn page, or via my website (https://neaten-portfolio.netlify.app/)
 
